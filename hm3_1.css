@@ -1,0 +1,25 @@
+h1 {
+    background-color: #A52A2A;
+    color: #FFFFFF;
+    text-align: center;
+}
+p {
+    text-align: left;
+    font-size: 18px;
+}
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.section2 {
+    text-align: center;
+}
+.section2 img {
+    border: 5px dashed black ;
+}
+footer {
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+}
